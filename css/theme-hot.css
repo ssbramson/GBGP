@@ -413,6 +413,13 @@ p a,
   min-width: 230px;
   border-radius: 35px;
 }
+.btn-outline { 
+  border: 2px solid #fff;
+  border-radius: 35px;
+  min-width: 330px;
+  padding: 20px 0px 21px 0px;
+  text-transform: uppercase;
+}
 /*!
 // Backgrounds & Parallax
 // --------------------------------------------------*/
